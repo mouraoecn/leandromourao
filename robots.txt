@@ -1,0 +1,8 @@
+# Leandro Mourão — robots.txt
+# https://leandromourao.com.br/
+
+User-agent: *
+Allow: /
+Disallow: /obrigado/
+
+Sitemap: https://leandromourao.com.br/sitemap.xml
